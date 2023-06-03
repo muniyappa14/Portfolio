@@ -15,7 +15,7 @@ const About = () => {
       <div className="a-right">
         <h2 className='a-about' style={{color:"blue"}}>About me..</h2>
         <h3><p className='a-about'>Ok you are here to know about me,glad to see you. 
-            Basically am a fresher in Front-End Developer,just joined 'Prostack Academy' to learn something and get placed in a IT field.</p></h3>
+            Basically am a fresher in Full stack web Developer,just joined 'Prostack Academy' to learn something and get placed in a IT field.</p></h3>
       </div>
     </div>
   )

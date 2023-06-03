@@ -6,15 +6,16 @@ const Intro = () => {
     <div className='i'>
         <div className="i-left">
         <div className="i-left-wrapper">
+
             <h4 className='i-intro'>Hello,my self </h4>
-            <h1 className='i-name'>Muniyappa.p</h1>
+            <h1 className='i-name'>Muniyappa.P</h1>
             <div className="i-title">
                 <div className="i-title-wrapper">
                     <div className="i-title-item">
-                        Front-End Web Developer
+                        Full stack Web Developer
                     </div>
                 </div>
-                <p className="i-desc">I design and develop customer required web applications,in all sizes based on front end,and also student required projects.</p>
+                <p className="i-desc">I design and develop customer required web applications,in all sizes based on full stack web development,and also student required projects.</p>
             </div>
             
         </div>
